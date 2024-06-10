@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/6f25a7f4-92bb-440a-a21e-1cbae174dc04/resourceGroups/rg-project-sb1/providers/Microsoft.Web/sites/nodejs-ui-app-demo",
+    "appService.deploySubpath": "."
+}
