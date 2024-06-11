@@ -39,5 +39,8 @@
   }
   ,"overrides": {
     "nth-check": "$nth-check"
+},
+"engines": {
+  "node": ">=20.0.0"
 }
 }
